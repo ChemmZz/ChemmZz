@@ -1,5 +1,5 @@
 # Hello There 👽, I'm Chema Galvez
--> (My full name is actually Jose Maria Galvez)
+-> \(My full name is actually Jose Maria Galvez)
 
 ## MSCAPP student at the University of Chicago
 
