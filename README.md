@@ -74,7 +74,7 @@ Designed an **automated tracking system** for sustainable energy projects at **S
 ---
 
 ### 📈 GitHub Stats
-![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChemmZz&theme=calm_pink&show_icons=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ChemmZz&theme=calm_pink&show_icons=true)
 
 ---
 
