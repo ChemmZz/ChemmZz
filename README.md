@@ -73,9 +73,4 @@ Designed an **automated tracking system** for sustainable energy projects at **S
 
 ---
 
-### 📈 GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ChemmZz&theme=calm_pink&show_icons=true)
-
----
-
 🚀 Always looking for opportunities to apply **data-driven insights** in **energy policy, impact investing, and public sector innovation**!
